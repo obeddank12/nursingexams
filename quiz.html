@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Interface | Classroom Edition</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="quiz-page">
+  <div class="page-shell">
+    <header class="quiz-topbar">
+      <div class="header-left">
+        <div class="breadcrumb-nav">
+          <span class="course-tag" id="breadcrumbText">Medical Nursing</span>
+          <span class="separator">/</span>
+          <div class="custom-select-wrapper">
+            <select id="setSelector" class="set-dropdown">
+              </select>
+          </div>
+        </div>
+        <h1 id="currentSetTitle">Initializing Quiz...</h1>
+      </div>
+      
+      <div class="topbar-actions">
+        <button id="focusToggle" class="button button-secondary">Focus Mode</button>
+        <div class="timer-card">
+          <span class="label">Time Remaining</span>
+          <strong id="timerDisplay">00:20:00</strong>
+        </div>
+      </div>
+    </header>
+
+    <div class="quiz-layout">
+      <aside class="quiz-sidebar" id="quizSidebar">
+        <div class="sidebar-header">
+          <h2>Questions</h2>
+          <span id="questionCountDisplay">0</span>
+        </div>
+        <div class="question-grid" id="questionGrid">
+          </div>
+      </aside>
+
+      <main class="quiz-main">
+        <div class="set-summary">
+          <div>
+            <h2 id="mainHeading">Practice Set</h2>
+            <p>Select a mode and confirm answers as you progress through the questions.</p>
+          </div>
+          <div class="mode-switch">
+            <button class="button button-secondary active" id="studyModeBtn">Study Mode</button>
+            <button class="button button-secondary" id="timedModeBtn">Timed Mode</button>
+          </div>
+        </div>
+
+        <article class="question-panel">
+          <div class="question-meta">
+            <span class="question-number" id="qNumberLabel">Question 0 of 0</span>
+            <span class="question-state unanswered" id="qStatus">Unanswered</span>
+          </div>
+          <h2 class="question-text" id="mainQuestionText">Loading question content...</h2>
+
+          <div class="options-list" id="optionsContainer">
+            </div>
+        </article>
+
+        <div class="quiz-footer">
+          <button class="button button-secondary" id="prevBtn">Back</button>
+          <button class="button button-primary" id="confirmBtn">Confirm Answer</button>
+          <button class="button button-secondary" id="nextBtn">Next</button>
+          <button class="button button-danger" id="endBtn">End Set</button>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

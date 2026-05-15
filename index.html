@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Classroom Edition | Nursing Quiz Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dashboard-page">
+  <div class="page-shell">
+    <header class="hero-card">
+      <div>
+        <p class="eyebrow">Classroom Edition</p>
+        <h1>Clinical Nursing Quiz</h1>
+        <p>Offline-first, projector-friendly practice sets for medical, surgical, obstetrics, public health and more.</p>
+      </div>
+    </header>
+
+    <section class="section-grid">
+      <div class="section-header">
+        <h2>Courses</h2>
+        <p>Select a course to open available question sets.</p>
+      </div>
+
+      <div class="course-grid">
+        <article class="course-card">
+          <h3>Medical Nursing</h3>
+          <p>Foundations, medical-surgical care and pharmacology review.</p>
+          <a href="quiz.html?course=medical&set=1" class="button button-primary">View Sets</a>
+        </article>
+        <article class="course-card">
+          <h3>Surgical Nursing</h3>
+          <p>Perioperative, trauma and wound care practice questions.</p>
+          <a href="quiz.html?course=surgical&set=1" class="button button-primary">View Sets</a>
+        </article>
+        <article class="course-card">
+          <h3>Obstetrics</h3>
+          <p>Maternal-child health, labour and delivery, and newborn care.</p>
+          <a href="quiz.html?course=obstetrics&set=1" class="button button-primary">View Sets</a>
+        </article>
+        <article class="course-card">
+          <h3>Public Health</h3>
+          <p>Community health, epidemiology and program planning review.</p>
+          <a href="quiz.html?course=public-health&set=1" class="button button-primary">View Sets</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-panel">
+      <div class="section-header">
+        <h2>Session History</h2>
+        <p>Previous scores are stored locally so the classroom can track progress over time.</p>
+      </div>
+
+      <div class="history-card">
+        <table class="history-table">
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Set</th>
+              <th>Score</th>
+              <th>Date</th>
+            </tr>
+          </thead>
+          <tbody id="historyBody">
+            <tr>
+              <td colspan="4">No history available yet. Complete a set to save your first score.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
