@@ -624,3 +624,128 @@ a {
   font-size: 1.2rem;
   border-radius: 16px;
 }
+/* --- Optimized Mobile Responsive Block --- */
+
+@media (max-width: 720px) {
+  .page-shell {
+    padding: 12px 0 32px; /* Reduced top/bottom padding */
+    width: 92%;
+  }
+
+  /* Header Shrink */
+  .quiz-topbar {
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    border-radius: 16px;
+  }
+
+  .quiz-topbar h1 {
+    font-size: 1.4rem; /* Significantly smaller title */
+  }
+
+  .breadcrumb-nav {
+    gap: 8px;
+  }
+
+  .course-tag {
+    font-size: 0.75rem;
+    padding: 3px 8px;
+  }
+
+  .set-dropdown {
+    font-size: 0.9rem;
+    padding: 6px 28px 6px 12px;
+    border-radius: 10px;
+  }
+
+  /* Compact Timer */
+  .timer-card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    min-width: unset;
+  }
+
+  .timer-card strong {
+    font-size: 1.1rem;
+  }
+
+  /* Question Grid - Smaller & Tighter */
+  .quiz-sidebar {
+    padding: 16px;
+    border-radius: 16px;
+    min-height: auto;
+  }
+
+  .question-grid {
+    grid-template-columns: repeat(5, 1fr); /* 5 buttons across instead of 4 */
+    gap: 8px;
+  }
+
+  .qb-item {
+    height: 40px; /* Shorter buttons */
+    font-size: 0.95rem;
+    border-radius: 10px;
+  }
+
+  /* The Main Question Area */
+  .question-panel {
+    padding: 20px; /* Reduced from 48px */
+    min-height: auto;
+    border-radius: 18px;
+  }
+
+  .question-text {
+    font-size: 1.15rem; /* Better scaling for long medical questions */
+    line-height: 1.4;
+    margin-bottom: 8px;
+  }
+
+  /* Options Buttons */
+  .option-btn {
+    padding: 14px;
+    font-size: 1rem;
+    border-radius: 14px;
+    gap: 10px;
+  }
+
+  .option-label {
+    width: 26px;
+    height: 26px;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+
+  /* Mode Switch & Summary */
+  .set-summary {
+    padding: 16px;
+    border-radius: 16px;
+  }
+
+  .set-summary h2 {
+    font-size: 1.2rem;
+  }
+
+  .mode-switch .button {
+    flex: 1; /* Buttons take equal width */
+    font-size: 0.85rem;
+    padding: 10px;
+  }
+
+  /* Footer Controls */
+  .quiz-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2x2 grid for buttons */
+    gap: 10px;
+  }
+
+  .quiz-footer .button {
+    width: 100%;
+    padding: 12px;
+    font-size: 0.9rem;
+  }
+}
