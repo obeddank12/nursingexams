@@ -11157,3 +11157,4 @@ export const medicalSets = [
     }
   ]
 ];
+export default medicalData;

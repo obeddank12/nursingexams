@@ -1,34 +1,450 @@
-export const surgicalSets = [
+export const surgicalData = [
+  // SET 01: Preoperative Optimization & Intraoperative Nursing Care
   [
-    {"question": "39.4OC. This suggests injury to the Hypothalamus Medulla oblongata Temporal lobe When caring for a patient who has a possible skull fracture. The nurse should Check for haemorrhaging from the oral cavity Elevate the foot end of the bed if patient develops symptoms of shock Observe the patient for signs of increased intracranial pressure Observe the patient for symptoms of decrease intracranial pressure To prevent the development of contractures in a patient with spinal injury, the nurse should give careful consideration to Active exercise Deep massage of the limbs Proper positioning Which of the following diets would be appropriate for the patient with ulcerative colitis High fibre, low fat High carbohydrate, low sodium Low protein, high calorie A priority nursing diagnosis for a patient with ulcerative colitis is Diarrhoea related to hypermotility High risk for infection Ineffective coping Which of the following is NOT a precipitating cause of haemorrhoids? Constipation Occlusion of the arterial blood supply to the rectum Prolong sitting or standing Conservative management of haemorrhoids include the following EXCEPT High fibre diet Ice compresses for discomfort Laxatives and stool softeners Predisposing factors of appendicitis include Inadequate food intake Kinking of the appendix Presence of faecalith Repeated throat infection I and II II and III I,II and III As general rule after abdominal operation normal bowel sounds should be present before Ambulation is begun Deep breathing is encourage IV fluids are discontinued After closure of duodenal ulcer, which of these analgesics would you NOT administer Paracetamol tablets Pethidine injection Suppository diclofenac A patient returns to the ward fully awake following a bronchoscopy and biopsy. The nurse should Advise the patient to cough frequently Advise the patient to lie flat for 2 hours Evaluate the presence of gag reflex On the 3rd day after laparotomy a patient complains of severe pains in the right calf muscle. The nurse should first Apply hot fermentation to the part Elevate the leg above the heart Notify the surgeon Emergency equipment that should be at the bed side of a patient after thyroidectomy includes A crushing clamp An air way and ambubag A tracheostomy set and oxygen When a patient returns from theatre after thyroidectomy the nurse should assess injury to the pharyngeal nerve by Asking the patient to speak Checking the patient for neck oedema Observing the patient for signs of tetany The most serious complication associated with chronic inflammatory of the bowel is Bleeding Obstruction Paralytic ileus When giving enema the patient should be placed in a Fowlers position Knee chest position Left sim’s position The nurse should protect the patient’s skin surrounding a colostomy opening by using Barrier cream Methylated spirit Mineral oil A patient who has had a colostomy should follow a diet that is As close to normal as possible High in carbohydrates Low in fibre content The main purpose of under- water sealed drainage system is to Drain air and blood from the pleural cavity Drain air, fluid and blood from the pleural cavity Prevent air and fluid from entering the lung Objective for managing burns include Prevention of deformity Prevention of infection Provision of adequate diet Replacement of lost fluid and electrolyte I,II and III I,III and IV II, III and IV What would be your immediate intervention when a patient’s tracheostomy tube dislodges Go and get a new tube Inform the doctor to give you directions Insert the tube and give oxygen When assessing a patient suspected of raptured ectopic, which of these would you monitor? Abdominal distension Haemoglobin and haematocrit Pulse rate A serious gastrointestinal disturbance that frequently occur to a severely burn patient Haematemasis Paralytic ileus Peritonitis Ulcerative colitis ……………………………………………………… write in the space provided, the letter which correspond to your choice ……………………………. A patient sustained a laceration on the left leg and hands become infected. The wound is expected to heal by which type of healing? Approximation Epithelial formation Granulation A patient being prepared for a major abdominal surgery is instructed to take nothing by mouth by a period of 2 to 4 hours before surgery 6 to 8 hours before surgery 8 to 12 hours before surgery Cheatle forceps is an instrument used to pick items from a: Decontaminant Disinfectant Non sterile field Which of the following is used to prepare the skin before surgery Antisepsis Antiseptic Decontaminant Which of the following interventions would a nurse first perform on a patient who has arrived from theatre with retention of urine? Call the surgeon Insert urethral catheter Serve bedpan and encourage patient to urinate Palliative treatment surgery is perform to: Cure of the condition Provide therapy Relieve pain Which one of these would be appropriate for the treatment of necrotic wound? Cleaning with antiseptic Debridement Serving of antibiotic medication Madam Adisa has ectopic pregnancy, which type of surgery would be performed on her? Appendicectomy Myomectomy Oophorectomy Which of the following would a nurse use when removing an old dressing from a wound? Cheatle forceps Examination glove Surgical glove Factors that influence wound healing include the following Life style Disease Medications Nutrition I, II and IV only I, II and IV only I, III and IV only Informed consent from the patient is necessary for: Admission procedure Discharge procedure Invasive procedures such as surgery The role of the circulating nurse in the theatre is to assist the: Anaesthetist to prepare anaesthetics Nurse to set up trolleys Pharmacist selects analgesics for patient Pre-operative preparation include the following EXCEPT Physical Physiological Psychosocial Which of the following is NOT a symptom? Dizziness Nausea Pain Deep-Breathing exercise is effectively taught: Intra operatively Peri operatively Post operatively Kwame is receiving analgesics after surgery. How often would it be given? As often as patient request for it According to Surgeon’s prescription Every 30 minutes A patient with chest tube insertion should assume which position? Low Fowler’s High Fowler’s Prone Complication of wound healing include: Dehiscence Evisceration Infection Life style I, II and III only I, II and IV only I, III and IV only Which one of the following surgery would be performed for madam Otu who has cancer of the breast? Hysterectomy Mastectomy Myomectomy Nurse Mensah will go through the following in sequential order to prepare a patient skin for surgery. Cover skin with sterile towel Clean skin with antiseptic lotion Shave skin according to institution protocol Wash skin with soap and water I, II, III and IV II, III, IV and I III, IV I and II The nurse will do all the following in case a patient has dehiscence with evisceration (burst abdomen) EXCEPT Call the Surgeon Instruct patient to stay calm Prepare patient for theatre Bone is broken inside but skin is intact Skin integrity is impaired as well as bone There is risk for impaired skin integrity Gilbert, 12 years old boy had incision and drainage for injection abscess of the gluteal muscle. Which position would be appropriate after surgery? Dorsal Prone Recumbent A patient with furunculosis is warned not to pierce any lesion. Doing so could Cause bleeding Promote drainage Prevent healing Which of the following would you tell your patient with varicose veins to do to promote comfort and minimize worsening condition? Tell patient to Avoid wearing constrictive clothing Avoid elevating her legs above heart level Avoid putting on compression stockings before coming out of bed Which of these nursing diagnostic statement will be most appropriate for a 16 year old girl with inflammation of the breast? Impaired skin integrity related to cracks Ineffective breast feeding related to inflammation of breast tissue Nausea related to inflammation of breast tissue Reconstructive surgery is performed to: Relieve or reduce intensity of an illness or disease symptoms will not produce cure Restore function to traumatize tissues and improve self-concept Restore function lost or reduced as a result of Anaesthesia is given to a patient before surgery for the following reasons: Induce state of loss of sensation Induce sleep in patient Produce absence of pain Produce muscle relaxation I, II and III only I, II and IV only I, III and IV only The goals of cure, control and palliation of cancer are achieved through the following EXCEPT Chemotherapy Physiotherapy Radiation therapy Intra operative phase of surgery begins when Decision for admission is made A patient has a fracture of the right femur and is in a skeletal traction. Which appropriate bed accessory would help relieve pressure on the buttocks? Bed cradle Sand bag Side rails Which of the following is NOT a complication of gastric surgery? Paralytic ileus Perforation Vitamin B12 deficiency What signs and symptoms will indicate that a patient is having internal bleeding within 24 hours after surgery/ Cold clammy skin Low blood pressure Rapid pulse rate Restlessness I,II and III only I,II and IV only I,III and IV only The nurse will perform which of these interventions for haemorrhage from wound site after surgery? Change dressings and soiled linen Prepare and send patient back to theatre Reinforce dressings and observe patient A patient with spinal injury is lying in a supine position. Which area of the body is most likely to develop into pressure ulcer? Ears, sternum, sacrum and heel Forehead, sternum, patella and toes Occiput, scapular, sacrum and heel Which of these theatre instruments would be included on a trolley set for Orthopaedic surgery? Curved tonsil forceps Sim’s Vaginal Speculum Steinmann’s pin, introducer, stirrup Drain and drainage tubes are inserted in wounds to Cause plus formation Improve on wound healing process Prevent wound healing process A patient has been put on IV fluid therapy after abdominal surgery. Which of these observations would the nurse make to prevent fluid overload? Check skin and mucous membrane for hydration level Check BUE and creatinine level Monitor fluid intake and output Monitor vital signs of patient I,II and III only I,II and IV only I,III and IV only The formation of thrombus in association with inflammation of the vein is called Embolism Thrombosis Thromboembolism Objective of managing burns include Prevention of deformity Prevention of infection Provision of adequate diet Replacement of loss fluid and electrolyte I,II and III I,II and IV II, III and IV Which of the following new growths originate from adipose tissue? Lipoma Melanoma Papilloma Which of the following is suggestive of the fact that a patient has large bowel obstruction Anorexia Abdominal cramps Constipation Clinical features of breast cancer include Dimpling of the breast Fixation of the lump Hard non tender regular lump Palpable axillary lymph nodes I,II and III I,II and IV II, III and IV The primary objective in passing nasogastric tube postoperatively in abdominal surgery is Prevent aspiration of the stomach contents Prevent accumulation of gas Prevent stomach from over distension Teaching points to be emphasised to minimise hair loss in breast cancer chemotherapy include Avoiding electric hair dryers-let hair dry naturally Shampoo hair daily Use eyebrow pencil if hair loss affects the eye area Use wide –toothed comb instead of a brush I,II and III I,II and IV II,III and IV One of the function of circulating nurse is Assisting the surgeon by anticipating the required instrument Ensuring safe functioning of the theatre equipment Preparing sutures and ligatures Call the nearest doctor Flush line with IV normal saline Slow down the rate and give prescribed antihistamine An early warning sign of laryngeal cancer is Airway obstruction Dysphagia Dyspnoea Which of the following actions would NOT be taken to prevent postoperative shock? Avoid overheating by covering patient with one light sheet only Control pain by administering prescribed analgesics Proper preoperative preparation Which of the following is clinical feature of a simple non-toxic goitre? Eyes are protruding Pressure symptoms eg. dysphagia Skin is moist and vascular Stones in the gall bladder is referred to as Calculus Cholecystitis Cholelithiasis The most reliable way to diagnose haemorrhoids is Occult blood in stool Patient complaining of itching in the anus X-ray of the gastrointestinal tract using barium meal The immediate postoperative complication of thyroidectomy include Laryngeal oedema Keloid Respiration distress Surgical emphysema I,II and III I,II and IV I,III and IV The most appropriate treatment for a 60 year old woman with hip fracture is the application of Internal fixation device Plaster of Paris Skeletal traction Hypocalcaemia results in Bone pain Oedema Shortness of breath Which of the following medication will be prescribed for a patient with postoperative shock? Analgesic Antihistamine Bronchodilators Burst abdomen after surgery (dehiscence) is caused by Early ambulation Infection Poor nutrition Strenuous cough I,II and IV I,III and IV II, III and IV To prevent dangers associated with application of tourniquet to arrest haemorrhage in emergency the nurse should Loosen the tourniquet every 5mins in the event of traumatic amputation Loosen the tourniquet every 10mins and reapply after 5mins Keep the tourniquet on until patient is taken to theatre Causes of peptic ulcer include the following EXCEPT Excessive secretion of hydrochloric acid Microorganism Patient with blood group A,AB or B are at risk Which arteries supply blood to the neck and arms? Coeliac Common carotid Subclavian …………………………………………………………. write in the Space provided, the letter which correspond to your choice ……………………………. Possible outcome of inflammation include the following Gangrene formation Pus formation Repair Resolution I, II and III I, II and IV II, III and IV Signs and symptoms of toxaemia include the following EXCEPT Constipation Dysuria Headaches The preoperative phase extends until Patient is given pre-medication Last vital signs are checked in the ward The following are signs and symptoms of post-operative paralytic ileus EXCEPT Increasing abdominal distension with discomfort Profuse vomiting Absence of bowel sounds Avulsion wound Penetrating wound Perforated wound The first steps to take whilst shortening a drainage tube is to Clean the area around the drain Draw drain about 2.5cm Remove any stitch or pin used to secure the drain The following are types of surgery classified according to urgency EXCEPT Elective surgery Emergency surgery Imperative surgery Which of the following is NOT an outcome of inflammation? Dehydration Fibrosis Resolution Emergency management of a fracture include Covering the area with clean dressing if fracture is open Immobilising the affected limb Splinting the injured limb I and II I and III II and III After removal of cast the patient can be instructed to do the following EXCEPT Apply an ointment to soften the skin Control swelling with elastic bandages as directed Gradually resume activities and exercise Which of the following is a potential risk factor for cancer of the colon? Chronic constipation Long term use of laxatives History of smoking Which of the following analgesics would NOT be administered to a patient after a closure of perforated duodenal ulcer? Pethidine Paracetamol Suppository diclofenac Which of the following diet would be appropriate for a patient with ulcerative colitis? High calorie, low protein High protein, low residue Low fat, high fibres Which of the following symptoms would be exhibited by a female patient with thyrotoxicosis? Dysmenorrhoea Metrorrhagia Oligomenorrhoea Which of these drugs is the most effective against anaerobic organism? Gentamycin Erythromycin Metronidazole Which of the following factors does NOT promote wound healing? Debridement Diet The study of tumour formation is known as Animalism Dermatology Neoplasm According to ‘Wallace rule of Nine’ the percentage of burnt area involving the anterior trunk, right arm and neck is 19 27 28 The following are cytotoxic drugs for the treatment of malignant tumours EXCEPT Cyclophosphamide 5 fluorouracil Methotrexate Suctioning of the patient with tracheostomy must be brief. It should not exceed 5 seconds 10 seconds 15 seconds A penetrating wound of the chest may permit air to enter the pleural cavity resulting in Emphysema Empyema Pleurisy The characteristic of the stage of progression in the development of cancer is Continual steady growth, facilitated by promoting factors Mutation of the stem cell Which of these surgical procedures involve the removal of a body organ? Colostomy Cholecystectomy Herniorrhaphy A patient reports having an allergy to penicillin. Which of the following questions would elicit the most useful information for the nurse? ``Did you notify your physician of the allergy?’’ ``What infection did you have that required penicillin?’’ ``What type of allergic reaction did you have?’’ Which patient is at the greatest risk for surgical and anaesthetic complications? A/An Three-year old boy scheduled for a hernia repair Forty-two year old scheduled for a breast cancer Eighteen- year old scheduled for emergency appendectomy Mr. Koi, an alert 75 years old man is to undergone elective hip surgery. The consent form must be signed in the presence of the witness by Either Mr. or Mrs. Koi Mr. and Mrs. Koi Mr. Koi and the surgeon A nursing intervention to assist the patient in coping with the fear of pain would be to Describe the degree of pain expected Divert the patient when talking about pain Explain the availability of pain medication Which of the following characteristics of the operating room environment facilitates the prevention of infection in the surgical patient? Adjustable lightening Conductive furniture Explosion proof electrical plugs When scrubbing at the scrub sink in preparation for surgery, team members should Hold hands higher than the elbow Scrub for a minimum of 10 minutes Scrub from elbow to hands Intravenous induction for general anaesthesia is the method of choice for the most patients because Induction is rapid and pleasant They are no-explosive agents The odour of agent is not offensive Which of the following is a need of the patient undergoing surgery? Comfort measures Privacy Reduction of anxiety I and II I and III II and III Which of the following nursing actions is NOT desirable during recovery from anaesthesia? Auscultating the patient chest bilaterally Encouraging deep breathing and coughing Placing the patient in a supine position Which of the following is at the greatest risk for post-operative nausea and vomiting? 14 year old ,40kg boy following orchidopexy under general anaesthesia 23 year old ,125kg following a diagnostic laparoscopy under general anaesthesia 45year old , 70kg man following an arthroscopy under epidural anaesthesia A urine output averaging 20mls per hour the first post-operative day Is a normal expected finding Is normal if the patient had genitourinary surgery Requires a return to the operating room What is the most important nursing diagnosis category in septic shock? Altered tissue perfusion Fluid volume deficit Hyperthermia It is important for the burn patient and family to Allow the nurse to nurse the patient to give total care to prevent infection Avoid discussion of the patient’s progress to minimise false hope See the burn wound three times daily Clinical manifestation of renal calculi include Dribbling at the end of urination Frequency of urination and polyuria Severe flank pain and haematuria The following are true of intussusceptions EXCEPT A feeling of emptiness of right lower quadrant is felt on palpation May present with a chronic recurrent pain It is a disease of infants In a conservative management of haemorrhoids the most important aspect is to give Broad spectrum antibiotics High fibre diet Topical application of xylocaine jelly Which position would be ideal for a patient in early post-operative after haemorrhoidectomy? High fowlers Lateral position Supine Pre-operative intestinal antibiotics are given for colon surgery to Decrease the bulk of colon content Reduce the bacteria content of the colon Soften the stool The unique problems to the patient with ileostomy is that Regular bowel habits cannot be established Sexual activity is restricted Skin excoriation can occur A cystoscope allows visualisation of the Bladder Urethral orifices Urethra I and II I and III II and III After cataract extraction the patient is encouraged to Avoid bending his head below the waist Lie on his abdomen while sleeping Lift weights to increase muscle strength The most treatment for fissure-in Ano is Application of glycerine Fistulectomy Lateral sphincterotomy The most common application after a huge inguino-scrotal Herniorrhaphy Epididymo-orchitis Failure of ejaculation Scrotal haematoma A tumour removed from the ovary of a lady was found to contain a tooth. The tumour is most likely to be Abnormal foetal development Abnormal bone formation Dermoid tumour A manifestation of cancer of the cervix that would bring the patient to the gynaecologist Blood spotting after intercourse Fowl-smelling discharge Heaviness of the abdomen The nurse who assesses bone fracture pain would expect the patient to describe the pain as A dull, deep, boring ache Sharp and piercing Similar to muscle cramps Which of the following is NOT included in nursing assessment of a patient in traction? Circulation, sensation and motion of the extremities His level of anxiety and apprehension Lung and bowel sounds The best time to perform mammograms in woman in their forties is During the early half of their menstrual cycle During the last half of their menstrual cycle During ovulation Which of the following condition is NOT an indication for colostomy? Acute abdomen Cancer of the rectum Diverticulosis Post operatively the patient who has had eye operation should be placed Flat on the back with pillows supporting the head In high fowlers position with the neck supported with collar On the unaffected side The definitive diagnosis of Benign prostatic hypertrophy is arrived at by Biopsy of prostatic tissue Pap smear of prostatic fluid Rectal examination The most common encountered breast condition of the male is Breast cancer Cystic breast disease Gynaecomasia From question 56-60, match the malignant diseases under column A with tissues affected under column B Column A Column B F. Pigmented cell G. Connective a H. Epithelia …………………………………………………… write in the space provided, the letter which correspond to your choice ……………………………. A fundamental in the management of inflammation is General rest of the body Provision of clean bed linen Keeping patient warm To enhance wound healing the nurse would encourage the patient to Decrease intake of citrus fruit Eats a lot of carrot and water melon Eat more fish than meat A patient arrives at the emergency department complaining of mid-sternal chest pain. Which of the following nursing action should take priority? Complete history with emphasis on preceding events. An electrocardiogram. Careful assessment of vital signs. The most important factors to consider the burnt patient are Age of patient Depth of the burnt area Extent of skin area involve Weight of patient I and II I and III II and III A patient arrives in the emergency department and reports splashing concentrated household cleaner in his eye. Which of the following nursing actions is a priority? Irrigate the eye repeatedly with normal saline solution. Place fluorescein drops in the eye. Patch the eye. Which of the following drugs is NOT an antihistamine? Avomine Pentothal Phenergan A nurse is caring for a patient who has had hip replacement. The nurse should be most concerned about which of the following findings? Complaints of pain during repositioning. Scant bloody discharge on the surgical dressing. Complaints of pain following physical therapy. A patient is admitted to the hospital with a calcium level of 6.0 mg/dL. Which of the following symptoms would you NOT expect to see in this patient? Numbness in hands and feet. Muscle cramping. Hypoactive bowel sounds. The nurse should be careful when changing postoperative dressing not to introduce microorganism into the wound. This is an example of Concurrent asepsis Medical asepsis Surgical asepsis The first aid treatment of an alkaline burn is to flush the part with water and then with A dilute base An antibiotic solution A salt solution A patient who has a history of prolong vomiting is likely to develop Acidosis Alkalosis Hypocalcaemia One major problem with patients with paraplegia is Bladder control Nutritional intake Problems with communication A patient with spinal cord injury should be encouraged to drink fluids primarily to prevent Dehydration Fluid and electrolytes imbalance Skin breakdown The main complaint of a patient with cancer of the prostate gland would be Dysuria Oliguria Retention of urine According to Wallace’s ``rule of Nine’’ the percentage of the area involving the anterior trunk, one arm and perineum is 27 28 38 Patient going for abdominal operation should urinate immediately before the operation in order to Eliminate one source of post-operative discomfort Permit better visualisation of other viscera Prevent voiding on the operating table The main reasoning for administering atropine sulphate preoperatively is to Accelerate the effect of anaesthesia Decrease secretion Improve cardiac contraction Vitamin K is associated with which of the following function Anabolism of protein Blood clotting Respiratory gas exchange When a patient alerts a nurse that he is having hematemesis the nurse observe for Coughing of blood Flank blood in urine Protein in urine A patient who has had a laparotomy has just returned from theatre. The nurse should assess for bleeding by Ask patient if her back feels wet Assessing her level of consciousness Checking the blood pressure Which of the following blood related fluids can be used to replace blood lost in acute haemorrhage? Fresh frozen plasma Packed cells Plasma expanders Evidence of fluid imbalance in post-operative patient include the following Patient complains of thirst Patient’s lips are cracked The is presence of moisture in the axillae There is a reduction in urinary output I, II and III I, II and IV II, III and IV Nursing intervention for a patient having haemoptysis include the following Avoid giving sedatives Maintain a calm, reassuring approach Record quality, colour and character of the blood Save all cough up blood for inspection I, II and III I, II and IV II,III and IV A patient with cancer of the cervix will come to the hospital when she starts having Blood spotting after intercourse Foul smelling discharge Pressure symptoms of the bladder When there is a burst abdomen post operatively the nurse should Cover the abdominal content with towel soaked in saline Dress the wound as usual Inform the surgeon at once Push the abdominal content back gently I and II I and III II and III A comminute fracture of the patella is managed by Insertion of screws and wires Physiotherapy alone Removal of the whole patella The importance of good peri-operative management is to", "options": ["correct anaemia before surgery", "enhance general metabolism", "prevent postoperative complications"], "correctAnswer": 2, "predictedByAI": true},
-    {"question": "28. Which of the following is NOT an indication for catheterization", "options": ["acute suppression of urine", "acute retention of urine", "before pelvic operations"], "correctAnswer": 2, "predictedByAI": true},
-    {"question": "29. An expected patient outcome from relief of anxiety related to surgical procedure is", "options": ["questioning the anaesthetist about the nature and outcome of the anaesthesia", "requesting for the visit of the pastor of his church", "understanding the nature of the operation and signing the consent form willingly", "verbalizing an understanding of the pre-anaesthetic medication"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "30. The appropriate education of a patient on the outcome of barium swallow seed occurring", "options": ["for the next few days", "a sour taste in the mouth for several days", "diarrhoea occurring for the next few days", "It will take a week or more before the barium is passed."], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "31. One hour after prostatectomy the nurse observes that the indwelling catheter is not draining. Which of the following action would be taken?", "options": ["change urethral catheter of the patient", "increase flow rate of intravenous fluids", "irrigate patient’s indwelling catheter", "percurs the abdomen for bladder distension Ans.………"], "correctAnswer": 3, "predictedByAI": true},
-    {"question": "32. The T-tube in the common bile duct after choledechostomyis to", "options": ["allow bile to drain until sufficient healing occurs", "permit drainage of excess fluid from the surgical site"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "34. Which of the under mentioned would indicate third degree burns?", "options": ["Absence of pain at the site", "Bilster formation", "Dark colouration of skin", "Erythema Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "33. The catheter introduced into the chest during under water seal drainage is to", "options": ["drain blood and serum from the pleural cavity", "facilitate gradual re-expansion of the lung", "liquefy bronchial secretions and stimulate coughing", "prevent drying and irritation of bronchial mucosa"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "35. Mydriatics are drugs used for examination for the eye. What is the effect of Mydriatics? They", "options": ["Are used as artificial tears", "Cause spasm of accommodation", "Decrease intraocular pressure", "Dilate pupils Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "36. The most important goal for management of burns is", "options": ["Established optimal fluid and electrolytes balance", "Maintain normal blood pressure", "Maintain optimal hygiene", "Prevent formation of keloids Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "37. Pyogenic organism producing pus which is yellow and thick in consistency is", "options": ["Streptococcus", "Staphylococcus", "Gonococcus", "Pneumococcus Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "38. Which of the under listed may be manifestation of a duodenal ulcer?", "options": ["Vomiting after meals", "Haematemesis", "Pain relieved by food ingestion", "Pain half hour after meals Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "39. Skeletal traction as compared to skin traction has all the following characteristics EXCEPT", "options": ["It can be used for heavier weight", "It is more likely to reduce muscle spasms", "It is less likely to be associated with bone infection", "It can be used for longer period of time Ans.………"], "correctAnswer": 3, "predictedByAI": true},
-    {"question": "40. The under mentioned are causes of obstructive jaundice EXCEPT", "options": ["Stones in the common bile duct", "Carcinoma of head of pancreas", "Stones in the gall bladder", "Carcinoma of the bile duct Ans.………"], "correctAnswer": 3, "predictedByAI": true},
-    {"question": "41. Following radical mastectomy, oedema of the arm may occur as a result of", "options": ["Recurrence of growth", "Lymphatic obstruction", "Obstruction of the axillary vein", "Non administration of diuretics"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "42. Bloody discharge from the ear following head injury is an indication of", "options": ["Laceration of the ear lobe", "Traumatic otitis media", "Fracture of the base of the skull", "Laceration in the external auditory meatus Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "43. Which of the following are complications of tonsillitis?", "options": ["Laryngitis", "Otitis media", "Peritonitis", "Quinsy"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "44. The most common early symptom of cervical carcinoma is", "options": ["Dysmenorrhoea", "Metrorrhagia", "Menorrhagia", "Polymenorrhoea Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "45. The nurse should look for the following signs for aspirin over dosage", "options": ["Dry flushed skin", "Dilated pupils", "Decrease respirations", "Prolonged bleeding time Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "46. The principal reason for giving atropine preoperatively is to", "options": ["Decrease respiratory secretion", "Depress the sensory cortex", "Improve cardiac contraction", "Increase sphincter tone Ans.………"], "correctAnswer": 0, "predictedByAI": true},
+    {
+      "id": 1,
+      "question": "During preoperative verification, a patient states they do not fully understand the risks of the scheduled abdominal surgery. What is the correct action of the perioperative nurse?",
+      "options": [
+        "Explain the surgical procedure and risks to the patient independently.",
+        "Notify the operating surgeon immediately to return and explain the procedure, as obtaining informed consent is the surgeon's legal responsibility.",
+        "Instruct the patient to sign the consent form anyway and ask questions in the operating theater."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 2,
+      "question": "A patient undergoing general anesthesia suddenly develops a rapidly rising core temperature, severe muscle rigidity, tachycardia, and metabolic acidosis. The nurse recognizes Malignant Hyperthermia and prepares to assist with the administration of which specific antidote?",
+      "options": [
+        "Succinylcholine chloride injection.",
+        "Dantrolene Sodium intravenously.",
+        "Atropine sulfate rapid bolus."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 3,
+      "question": "According to standard preoperative fasting (NPO) guidelines for an elective surgical procedure, what is the minimum recommended fasting duration for clear liquids?",
+      "options": [
+        "2 hours.",
+        "6 hours.",
+        "12 hours."
+      ],
+      "correctAnswer": 0,
+      "predictedByAI": false
+    },
+    {
+      "id": 4,
+      "question": "Immediately before making the initial surgical incision, the operating team halts all activity to perform a 'Surgical Time-Out'. The nurse knows that the primary purpose of the time-out is to verify:",
+      "options": [
+        "The correct patient, correct surgical site, and correct procedure.",
+        "The total institutional cost of the surgical implants.",
+        "The post-operative ward bed allocation status."
+      ],
+      "correctAnswer": 0,
+      "predictedByAI": false
+    },
+    {
+      "id": 5,
+      "question": "The perioperative nurse understands that the primary operational difference between the scrub nurse and the circulating nurse is that the circulating nurse:",
+      "options": [
+        "Functions strictly within the sterilized surgical field using sterile attire.",
+        "Remains in the unsterile field, coordinating environmental safety, documenting care, and managing instrumentation supply lines.",
+        "Assists the surgeon directly with tissue retraction and suturing."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 6,
+      "question": "A preoperative patient reports a severe allergy to bananas, avocados, and kiwis. The perioperative nurse alerts the surgical team because this cross-reactivity indicates a high risk for a hypersensitivity reaction to:",
+      "options": [
+        "Iodine-based skin preparations.",
+        "Latex components.",
+        "Propofol induction agents."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 7,
+      "question": "The nurse is preparing to administer Atropine Sulfate as a preoperative medication. The nurse explains to the patient that the clinical purpose of this anticholinergic drug is to:",
+      "options": [
+        "Accelerate gastric motility and induce sedation.",
+        "Decrease respiratory and oral secretions to minimize the risk of aspiration under anesthesia.",
+        "Lower the baseline blood pressure to reduce intraoperative bleeding."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 8,
+      "question": "A patient receives spinal anesthesia for a lower limb orthopedic procedure. Post-operatively, the patient develops a severe 'spinal headache' upon sitting up. The nurse plans care based on the understanding that this complication is caused by:",
+      "options": [
+        "A sudden structural spike in systemic blood pressure.",
+        "Persistent leakage of cerebrospinal fluid (CSF) through the dural puncture site, reducing intracranial pressure.",
+        "An adverse allergic reaction to the local anesthetic agent."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 9,
+      "question": "When executing the surgical skin preparation for an abdominal procedure, the nurse should apply the antiseptic solution using which physical pattern?",
+      "options": [
+        "Starting at the outer periphery and wiping inward toward the incision line.",
+        "Starting at the proposed incision site and moving outward in expanding concentric circles.",
+        "Using a random back-and-forth scrubbing motion across the entire torso."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 10,
+      "question": "The perioperative nurse is placing an electrosurgical unit (ESU) grounding pad on a patient undergoing a total hip replacement. To ensure safety and prevent thermal burns, the pad should be placed over:",
+      "options": [
+        "A bony prominence like the anterior superior iliac spine.",
+        "A well-vascularized, large muscle mass close to the surgical site, avoiding scar tissue or metal implants.",
+        "An area with dense adipose tissue over the lower abdomen."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 11,
+      "question": "During a procedure under general anesthesia, the nurse monitors ventilation using continuous end-tidal capnography. The nurse knows that a sudden, steep drop in end-tidal carbon dioxide ($ETCO_2$) to zero most likely indicates:",
+      "options": [
+        "The development of malignant hyperthermia.",
+        "Accidental endotracheal tube dislodgement or total airway obstruction.",
+        "A normal deep plane of surgical anesthesia."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 12,
+      "question": "An operating room nurse knows that the risk of intraoperative hypothermia is high due to cold ambient temperatures and cool intravenous fluids. Hypothermia impairs clinical outcomes by causing which physiological effect?",
+      "options": [
+        "Vasodilation and increased drug clearance.",
+        "Impaired platelet function, coagulopathy, and increased risk for surgical site infections.",
+        "Profound resting hypoglycemia."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 13,
+      "question": "A preoperative patient takes daily low-dose Aspirin for cardiovascular protection. The nurse reviews the preoperative instructions and verifies that to restore normal platelet function, aspirin should ideally be discontinued for how many days prior to surgery?",
+      "options": [
+        "1 to 2 days.",
+        "7 to 10 days.",
+        "Exactly 30 days."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 14,
+      "question": "The nurse checks a patient into the holding bay and notes the patient is wearing removable dental plates. What is the correct intervention?",
+      "options": [
+        "Instruct the patient to keep them in place to facilitate communication with the anesthetist.",
+        "Remove the dentures, label them clearly, and secure them in a protective container before transfer to the theater to prevent airway occlusion during intubation.",
+        "Tape the dentures securely to the patient's buccal mucosa."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 15,
+      "question": "A patient is undergoing an outpatient procedure under Conscious (Moderate) Sedation. The nurse assigned to monitor the patient understands that a core component of nursing care during moderate sedation is:",
+      "options": [
+        "Maintaining continuous mechanical ventilator parameters.",
+        "Continuous monitoring of vital signs, airway patency, and responsiveness, remaining solely dedicated to the patient without leaving the bedside.",
+        "Assisting the surgeon with instrumentation exchange workflows."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 16,
+      "question": "A nurse is teaching a patient about using an autologous blood transfusion for an upcoming elective orthopedic surgery. The nurse explains that an autologous transfusion means:",
+      "options": [
+        "Receiving blood donated by a perfectly matched close family relative.",
+        "Collecting, storing, and re-infusing the patient's own blood, eliminating the risk of transfusion-transmitted infections.",
+        "Using synthetic blood substitutes formulated in a laboratory."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 17,
+      "question": "The operating room scrub nurse performs a surgical scrub prior to entering the sterile field. The correct technique requires scrubbing the hands and forearms with an antimicrobial agent for the designated duration while keeping the hands:",
+      "options": [
+        "Lower than the elbows at all times to let water drain to the floor.",
+        "Elevated above the elbows at all times, allowing water to drain from the cleanest zone (fingertips) to the less clean zone (elbows).",
+        "Interlocked tightly against the un-scrubbed surgical gown abdomen."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 18,
+      "question": "A surgical team is performing a complex procedure utilizing laser technology. The circulating nurse ensures that which safety precaution is strictly enforced within the operating room theater?",
+      "options": [
+        "Extinguishing all overhead fluorescent lights.",
+        "Ensuring everyone wears laser-specific protective eyewear matching the wavelength of the laser, and placing wet towels on the surgical field.",
+        "Keeping the operating theater doors wide open to dissipate fumes."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 19,
+      "question": "The nurse knows that which patient population carries the highest predisposing risk factor for experiencing intraoperative skin breakdown and pressure injury development?",
+      "options": [
+        "Young adult patients undergoing short laparoscopic procedures.",
+        "Elderly, malnourished patients undergoing prolonged surgical procedures lasting over 4 hours with baseline vascular insufficiency.",
+        "Multiparous patients undergoing elective cesarean deliveries."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 20,
+      "question": "The nurse completes the preoperative checklist and confirms the removal of all body jewelry and piercings. The primary clinical rationale for removing jewelry before surgery is to prevent:",
+      "options": [
+        "The loss of personal valuables within the hospital environment.",
+        "Electrical arcs and thermal burns at the jewelry site during the use of electrosurgical units (electrocautery).",
+        "A sudden drop in core body temperature."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    }
   ],
+  // SET 02: Postoperative Complications & Specialized Surgical Interventions
   [
-    {"question": "47. The administration of anaesthetic agent by endo-tracheal tube rather than by a face mask.", "options": ["facilitates concomitant oxygen administration", "permits use of less anaesthetic agent", "prevent respiratory obstruction", "provide less post operative discomfort Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "48. The first stage of anaesthesia is known as", "options": ["analgesia", "excitement", "the peak"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "49. In peptic ulcer, vagotomy is done to", "options": ["Decrease the secretion of HCL acid", "Improve the tone of gastrointestinal muscles", "Increase the blood supply to the jejunum", "Prevent the transmission of pain impulses Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "50. Intra operatively, the lithotomy position is maintained by placing the patient’s feet in", "options": ["steps", "stirrups", "strings"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "51. The scrub nurse and circulating nurse start the sponge count as the surgeon begins to", "options": ["Clean the skin", "Close the incision", "Cut into the skin", "Open the wound Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "52. Anorexia in burns is a probably result of", "options": ["Gastritis", "Hypermetabolism", "Regression", "Toxaemia Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "53. Which of the following position is most comfortable for patient with acute appendicitis?", "options": ["Lying absolutely on the back", "Sitting upright in a chair", "Lying on the side with right knee bent", "Prone with the head turn to the one side Ans.………"], "correctAnswer": 0, "predictedByAI": true},
-    {"question": "9.0% 18% A physician has diagnosed acute gastritis in a clinic patient. Which of the following medications would be contraindicated for this patient? The nurse is conducting nutrition counselling for a patient with cholecystitis. Which of the following information is important to communicate? The patient must maintain a low calorie diet. The patient must maintain a high protein/low carbohydrate diet. The patient should limit sweets and sugary drinks. A patient arrives in the emergency department and reports splashing concentrated household cleaner in his eye. Which of the following nursing actions is a priority? Irrigate the eye repeatedly with normal saline solution. Place fluorescein drops in the eye. Patch the eye. Which one of these would be appropriate for the treatment of necrotic wound? Cleaning with antiseptic Debridement Serving of antibiotic medication The nurse would instruct the patient with varicose vein to avoid standing for prolonged periods avoid wearing tight girdle cross legs at the knees while sitting When a patient alerts a nurse that he is having haemoptysis the nurse observe for Coughing of blood Flank blood in urine Protein in urine …………………………………………………………. write in the space provided, the letter which correspond to your choice ……………………………. The principles to follow when changing a surgical dressing of a patient is to : confine the micro-organisms to the wound Keep the sterile field free from micro organism Reduce the number of opportunistic micro-organisms to a minimum An effective first aid treatment for acid burns on the skin is to flash the burns with water and then apply a solution of sodium Bicarbonate Chloride Hydroxide Antibiotic therapy is given to a patient with tetanus to Argument the immune system Neutralise the toxins that have formed Potentiate the effect of anti toxins A patient complains of severe pains in the wound two days after surgery. The nurse should first Administer the prescribed p.r.n. analgesics Check wound for bleeding Find out when the last analgesics was given A patient with intestinal obstruction is being suction. He will be exposed to a danger of excessive loss of energy carbohydrate protein enzymes vitamins and minerals A volvulus can be explained as a loop of bowels causing obstruction a protrusion of an organ through the walls that contains it telescoping of a proximal loop of bowel into a distal loop causing obstruction A patient has cerebral compression as a result of skull fracture and is unconscious, the nurse should check temperature orally elevate the foot of bed open the airway using the jaw thrust method Concussion may occur as a result of A blow to the head brain tumour fracture of skull Patient with spinal cord injury should be encourage to drink copious primarily to prevent fluid and electrolytes balance constipation dehydration When a gall stone lodges the cystic duct, the colour of the patients stool would be black brown clay coloured The predominant symptoms of ulcerative colitis is constipation passage of bloody stools passage of stools containing pus Which of the following signs will indicate that a patient is dehydrated? Patient will complain of Cracked lips Cold and clammy skin Decrease urinary output Thirst I, II and III I, III and IV II, III and IV Which of the following diet will be appropriate for a patient with ulcerative colitis high fibre, low protein high carbohydrate, low sodium low protein ,high calorie A priority nursing diagnosis for a patient with prostate cancer is anxiety related to inability to void high risk for infection related to bacteria invasion of the incision knowledge deficit related to post operative management Compound fracture is one in which the bone has splintered into several fragments the fractured bone has been compressed by another bone one side of the bone is broken and other side is bent. Intramedullary nailing is used in the treatment of fracture of the neck and femur fracture of the shaft and femur slipped epiphysis of the femur The MOST important problem associated with cancrum oris is disfigurement feeding problem hearing problems The first aid treatment the nurse would give to the patient with epistaxis include the following except apply cold compress to the bridge of the nose ask patient to breathe through the mouth grip the tip of the nose between thumb and forefinger The main cause of pressure sore is immobilization and lack of normal movement moisture due to wetting of bed sheet with urine poor nutrition of the patient When dressing an abdominal wound which is draining pus copiously which type of bandage would you use? many-tail roller t-bandage When caring for the patient who has complained about pain, which of the following activities would NOT help to reduce the pain? administering prescribed analgesics leaving the patient alone so that he can relax teaching the patient about pain and its relief Which of the following will cause loss of sodium in the blood? diarrhoea excessive use of diuretics gastric suction Which of the following approaches to treatment of cancer uses anti-neoplastic agents to promote death of tumour cells by interfering with cellular function? biologic response modifiers chemotherapy hyperthermia Immediately after liver biopsy assist the patient to turn on his right side check patients pulse and respiration rates check his blood pressure at frequent intervals Stages of anaesthesia include beginning anaesthesia end stage anaesthesia excitement stage surgical anaesthesia I,II and IV I, III and IV II, III and IV When examining the breast which activity would reveal the symmetry or asymmetry of the breast? check the areolar area for crustiness and nipple discharge palpate the axillary nodes with the palm raise arms over head in front of a mirror use the flattened surface of 2 or 3 fingers to palpate breast tissue A patient who has undergone gastric surgery is complaining of symptoms of dumping syndrome. One of the nursing intervention is that after meals patient should lie down for 30 minutes before getting up let patient lie down in the prone position patent should take fluids with meals Which one of the following surgery would be performed for madam Otu who has cancer of the breast? Mastectomy Hysterectomy Myomectomy Nurse Mensah will go through the following in sequential order to prepare a patient skin for surgery. Cover skin with sterile towel Clean skin with antiseptic lotion Shave skin according to institution protocol Wash skin with soap and water I, II, III and IV II, III, IV and I III, IV,I and II When irrigating the indwelling urinary catheter the nurse should Aspirate immediately to ensure return flow Obtain and use sterile equipment Instil the fluid under high pressure Following extensive and prolong surgery, it is important that the nurse observes the patient for depletion of which electrolyte? Calcium Chloride Sodium Which of these nursing diagnostic statement will be most appropriate for a 16 your old girl with inflammation of to the breast? Impaired skin integrity related to cracks Ineffective breast feeding related to inflammation of breast tissue Nausea related inflammation of breast tissue Vitamin K is associated with which of the following function? Anabolism of protein Wound healing Respiratory gas exchange The first stage of anaesthesia is known is known as Analgesia Excitement The peak What post-operative objectives would you set for a patient who has undergone prostatectomy for prostate cancer? To establish kidney function improve quality of life The nurse would instruct the patient with varicose vein to avoid standing for prolonged periods avoid wearing tight girdle cross legs at the knees while sitting Which of these approaches for prostatectomy does not require open surgical removal? perineal retro-pubic supra-pubic A patient is brought back to the ward from recovery room after laparotomy with NG tube in situ. She started vomiting greenish fluid. The nurse should administer anti-emetics check the patency of the tube put patient in semi fowlers position When assessing a patient with gingivitis the specific sign the nurse should expect to find is bleeding gum halitosis hematemesis Following a fracture of the hip in an elderly woman the nursing diagnosis that should receive the LOWEST priority in the first 24 hours is alteration in patterns of urinary elimination ineffective individual coping impaired physical mobility related to fractured hip One of the side effects to be observed after administration of a chemotherapy for breast cancer is pain and elevation of temperature restlessness and irritability stomatitis and vomiting After prostatectomy which of these assessment findings would the nurse report to the surgeon? apnoeic respirations catheter urine in the receptacle is bloody patient pushes away the airway from the mouth An obese patient who had a laparotomy is complaining of symptoms of deep vein thrombosis (DVT). One of the signs of this condition is leg size diameter may be reduced onset is sudden skin temperature is cold In the post-operative period following a mastectomy the nurse should specifically observe the patient for haemorrhage and abdominal distension lymphadenoma in the arm of the operated side pulmonary complication Mydriatics are used in the management of eye conditions to constrict the pupils dilate the pupils lower the intraocular pressure In order to reduce intraocular pressure in glaucoma the nurse would educate the patient to do the following EXCEPT limit stress restrict salt in the diet take plenty of fluids After cataract extraction the nurse should allow patient to turn on unoperated side if he/she wants to encourage eye exercise to strengthen the ocular pressure instruct the patient to avoid driving for 2 weeks A patient is admitted with head injuries. He is conscious but cannot hear any sound. this suggest injury to the Hypothalamus Medulla oblongata Temporal lobe To prevent joint motion in a patient with spinal injury the nurse should Ensure early ambulation Initiate passive range of motion exercise within 48 hours Position feet against padded footboard A priority nursing diagnosis for a patient who has undergone cardiac surgery is Alteration in fluid volume and electrolytes balance related to decrease blood volume(potential) Alteration in renal perfusion related to decrease cardiac output (potential) Decrease cardiac output related to blood loss Which of the following is NOT a predisposing cause of abdominal hernia? Acquire weakness of the abdominal wall Congenital weakness of the abdominal wall Prolong sitting or standing A hernia in which the intestinal flow is completely obstructed is referred to Incarcerated Irreducible Reducible As a general rule, after abdominal surgery, normal bowel sounds should be prevent before Ambulation is begun Dressing is change IV fluids are discontinued Following cystoscopy, the nurse should expect the patient to have some Burning upon voiding Protein in the urine Suprapubic irritation When carrying out continuous irrigation of the urinary bladder, the drainage bag should be placed Between the patient’s legs Higher than the level of patient’s bladder Lower than the level of patient’s bladder During the post-operative period the nurse should give the highest priority to Checking and recording vital signs every 15 minutes Maintain a patent airway Observing for airway Causes of urethral stricture include Benign prostatic hypertrophy Congenital abnormalities of the urethra Cystoscopy procedures Untreated gonorrhoea I, II and III I, III and IV II, III and IV Emergency equipment that should be at the bed side of a patient after thyroidectomy includes A crushing clamp An airway and ambubag A tracheostomy set and oxygen The nurse’s responsibility during the preoperative phase of surgery is to Assess the effect of excessive fluid loss on the patient Assess the physical limitations caused by the operation Coordinate patient teaching with other nursing staff Which of these fluid has no electrolyte Dextrose 5% Normal saline Ringers lactate …………………………………………………", "options": ["Naproxen sodium (Naprosyn).", "Calcium carbonate.", "Clarithromycin (Biaxin)."], "correctAnswer": 2, "predictedByAI": true},
-  ],
+    {
+      "id": 21,
+      "question": "A nurse assesses a post-operative abdominal incision line and notes a sudden wound dehiscence where loop sections of the intestine have completely protruded outside the skin. What is the nurse's immediate priority action?",
+      "options": [
+        "Attempt to push the exposed bowel loops manually back into the abdominal cavity.",
+        "Cover the exposed viscera with sterile dressings heavily moistened with warm sterile normal saline, notify the surgeon immediately, and maintain strict NPO status.",
+        "Apply a dry, tight canvas abdominal binder across the wound site."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 22,
+      "question": "On post-operative day 2 following a total colectomy, a patient presents with a severely distended abdomen, absent bowel sounds on auscultation, and complaints of nausea without passing flatus. The nurse suspects:",
+      "options": [
+        "Normal, expected mechanical digestion acceleration.",
+        "Paralytic Ileus (neurogenic bowel obstruction secondary to surgical manipulation).",
+        "Acute mechanical small bowel volvulus."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 23,
+      "question": "To prevent Deep Vein Thrombosis (DVT) in a post-operative patient who remains on bed rest, which nursing intervention represents the most effective non-pharmacological choice?",
+      "options": [
+        "Placing soft pillows directly underneath the patient's popliteal space.",
+        "Applying sequential compression devices (SCDs) continuously and encouraging active ankle-pumping exercises.",
+        "Massaging the patient's calves vigorously twice a day."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 24,
+      "question": "A patient recovering from major orthopedic surgery suddenly develops acute dyspnea, sharp pleuritic chest pain, severe tachycardia, and drops her oxygen saturation to 84%. The nurse immediately suspects:",
+      "options": [
+        "Acute myocardial infarction clearance.",
+        "Pulmonary Embolism (PE) secondary to a dislodged deep vein thrombus.",
+        "Atelectasis of the left lower lung lobe."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 25,
+      "question": "A nurse is caring for a patient who returned from surgery 8 hours ago and has not yet voided. The bladder scanner displays a volume of 600 mL of urine trapped inside the bladder. What is the nurse's initial step?",
+      "options": [
+        "Administer a high-dose loop diuretic intravenously as ordered.",
+        "Encourage fluid intake and apply local warmth to the perineum; if ineffective, obtain an order for straight catheterization to relieve urinary retention.",
+        "Document the finding and re-evaluate in another 8 hours."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 26,
+      "question": "A post-operative patient’s vital signs change from a baseline of 120/80 mmHg and 72 bpm to a reading of 90/50 mmHg and 118 bpm, accompanied by cool, clammy skin and oliguria. The nurse identifies early signs of:",
+      "options": [
+        "Septic shock stabilization.",
+        "Hypovolemic Shock secondary to occult internal hemorrhage.",
+        "Neurogenic shock driven by spinal analgesia."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 27,
+      "question": "To minimize the risk of post-operative Atelectasis and Hypostatic Pneumonia, the nurse instructs the patient to use an incentive spirometer. The nurse teaches the patient to execute this exercise by:",
+      "options": [
+        "Exhaling forcefully into the device mouthpiece.",
+        "Taking a slow, deep, maximum inspiration through the mouthpiece, holding the breath for 3 to 5 seconds, then exhaling normally.",
+        "Breathing in and out rapidly via shallow panting cycles."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 28,
+      "question": "A patient returns from surgery with a Jackson-Pratt (JP) closed wound suction drain in place. To maintain a constant, effective low-pressure suction, the nurse must ensure that the drain bulb is:",
+      "options": [
+        "Kept completely filled with sterile normal saline.",
+        "Compressed flat (evacuated of air) and capped tightly to maintain negative pressure suction.",
+        "Hung at a level significantly higher than the patient's head."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 29,
+      "question": "A patient undergoes a subtotal Thyroidectomy. On post-operative day 1, the patient complains of tingling sensations around the mouth and fingertips, and exhibits involuntary muscle twitching during a blood pressure check. The nurse suspects damage to which structures?",
+      "options": [
+        "The main recurrent laryngeal nerve pathway.",
+        "The accidental removal of or damage to the Parathyroid Glands, triggering acute hypocalcemia and tetany.",
+        "The carotid artery circulatory columns."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 30,
+      "question": "Following a thyroidectomy, the nurse identifies a sudden development of stridor, respiratory distress, and an expanding, tense neck circumference. Alongside activating the emergency response team, what is the nurse's priority action?",
+      "options": [
+        "Administer a dose of an oral antianxiety sedative drug.",
+        "Prepare a sterile tracheostomy tray and emergency airway equipment directly at the bedside, as a neck hematoma requires urgent decompression.",
+        "Place the patient in a flat, supine position to maximize airway alignment."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 31,
+      "question": "A patient is recovering from a modified radical mastectomy on the right side. Which safety precaution must the nurse establish prominently over the patient's bed space?",
+      "options": [
+        "Do Not Turn the Patient on the Left Lateral Side.",
+        "No Blood Pressures, Venipunctures, or Injections in the Right Upper Extremity (to prevent lymphedema).",
+        "Maintain the Patient in Absolute Trendelenburg Position."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 32,
+      "question": "A patient is tracking post-operative for a Transurethral Resection of the Prostate (TURP) with a continuous bladder irrigation (CBI) system running via a three-way catheter. The nurse notes that the fluid draining into the bag has turned dark red with large clots, and the inflow has slowed. The nurse should immediately:",
+      "options": [
+        "Turn off the continuous bladder irrigation system completely.",
+        "Increase the flow rate of the irrigation fluid to flush the clots and keep the catheter patent, or manually irrigate with sterile saline if obstructed.",
+        "Administer a dose of an intravenous loop diuretic drug."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 33,
+      "question": "When measuring output from a patient undergoing Continuous Bladder Irrigation (CBI) post-TURP, how does the nurse calculate the patient's actual true urine output?",
+      "options": [
+        "By measuring the exact total volume collected inside the drainage bag.",
+        "Subtracting the total volume of irrigation fluid instilled from the total volume collected inside the drainage bag.",
+        "Multiplying the total input volume by a factor of two."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 34,
+      "question": "The nurse evaluates a new colostomy stoma on post-operative day 1. Which visual presentation of the stoma requires immediate notification to the operating surgeon?",
+      "options": [
+        "The stoma appears bright red, moist, and slightly edematous.",
+        "The stoma is dark purple, pale, or black in color with a dry surface (indicating ischemia or tissue necrosis).",
+        "The stoma has a small amount of serosanguinous oozing around the margins."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 35,
+      "question": "A patient undergoes a below-the-knee amputation. To prevent the development of hip or knee flexion contractures during the early post-operative phase, the nurse instructs the patient to avoid:",
+      "options": [
+        "Lying in a completely flat prone position.",
+        "Elevating the residual limb on a pillow for prolonged periods past the first 24 to 48 hours, or sitting in a chair for over 1 hour.",
+        "Performing active range of motion exercises on the unaffected leg."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 36,
+      "question": "Following a total craniotomy for a brain tumor mass, the nurse maintains the head of the bed elevated at 30 degrees. The primary clinical rationale for this positioning is to:",
+      "options": [
+        "Maximize gastrointestinal digestive velocity.",
+        "Optimize venous drainage from the brain to lower or stabilize intracranial pressure (ICP).",
+        "Prevent localized skin breakdown over the sacrum."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 37,
+      "question": "A patient is prescribed a Patient-Controlled Analgesia (PCA) pump containing Morphine Sulfate post-operatively. The nurse delivers safety education to the patient and family, emphasizing which guideline?",
+      "options": [
+        "The family should press the button for the patient whenever the patient is sleeping.",
+        "Only the patient must press the PCA button when experiencing pain, as self-dosing minimizes the risk of accidental overdose.",
+        "The button should be pressed at fixed intervals every 5 minutes regardless of pain level."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 38,
+      "question": "A patient returns from an uncomplicated cataract extraction surgery. Which discharge instruction should the nurse emphasize to prevent a sudden spike in intraocular pressure (IOP)?",
+      "options": [
+        "Encouraging heavy lifting and vigorous exercise daily.",
+        "Avoiding bending at the waist, coughing forcefully, sneezing, straining during bowel movements, or lifting objects over 5 pounds.",
+        "Sleeping exclusively on the operated side of the face."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 39,
+      "question": "The nurse notes that a surgical site incision line is draining thick, opaque, yellowish-green fluid with a foul odor on post-operative day 5. The nurse documents this exudate variant as:",
+      "options": [
+        "Serosanguinous drainage.",
+        "Purulent drainage (indicative of a localized bacterial wound infection).",
+        "Serous drainage clearing tracks."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    },
+    {
+      "id": 40,
+      "question": "A patient is scheduled for an elective laparoscopic cholecystectomy. The nurse explains to the patient that the primary clinical advantage of a laparoscopic procedure over an open laparotomy is:",
+      "options": [
+        "The complete elimination of the need for general anesthesia.",
+        "Smaller incisions, reduced post-operative pain, decreased hospitalization duration, and a faster return to normal activities.",
+        "An absolute guarantee that no surgical site infection can develop."
+      ],
+      "correctAnswer": 1,
+      "predictedByAI": false
+    }
+  ]
 ];
+
+export default surgicalData;
