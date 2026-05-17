@@ -4904,7 +4904,7 @@ export const surgicalData = [
       "correctAnswer": 2,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 23: Advanced Postoperative Monitoring & Paediatric Surgical Frameworks
   [
     {
@@ -5350,7 +5350,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 25: Specialised Corneal, Laryngeal & Thrombolytic Interventions
   [
     {
@@ -5573,7 +5573,7 @@ export const surgicalData = [
       "correctAnswer": 1,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 26: Postoperative Care, Specialized Plastering, & Clinical Pathologies (From Notes)
   [
     {
@@ -6019,7 +6019,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 28: Advanced Pathological Traumas, Specimen Preservation & Theater Ethics (From Notes)
   [
     {
@@ -6226,9 +6226,6 @@ export const surgicalData = [
       "options": [
         "The drainage system remains lower than the chest level..."
       ],
-      "options": [ // <-- You can delete this accidental duplicate block repeat
-        "The drainage system remains lower than the chest level..."
-      ],
       "correctAnswer": 0,
       "predictedByAI": false
     },
@@ -6243,7 +6240,7 @@ export const surgicalData = [
       "correctAnswer": 1,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 29: Postoperative Complications & Systemic Care Frameworks (From Notes)
   [
     {
@@ -8919,7 +8916,7 @@ export const surgicalData = [
       "correctAnswer": 2,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 41: Preoperative Preparation, Postoperative Airway Management & Patient Positioning
   [
     {
@@ -10257,7 +10254,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 44: Perioperative Care & Clinical Complications (From Notes)
   [
     {
