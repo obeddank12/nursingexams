@@ -3,14 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz Interface | Classroom Edition</title>
+  <title>Quiz Interface | NurseNexus Portal</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body class="quiz-page">
   <div class="page-shell">
     <header class="quiz-topbar">
       <div class="header-left">
+        <button id="sidebarToggle" class="sidebar-toggle-btn" aria-label="Toggle Question Navigation">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
+        
         <div class="breadcrumb-nav">
+          <a href="index.html" class="home-hub-link">Dashboard</a>
+          <span class="separator">/</span>
           <span class="course-tag" id="breadcrumbText">Medical Nursing</span>
           <span class="separator">/</span>
           <div class="custom-select-wrapper">
@@ -34,7 +42,7 @@
       <aside class="quiz-sidebar" id="quizSidebar">
         <div class="sidebar-header">
           <h2>Questions</h2>
-          <span id="questionCountDisplay">0</span>
+          <span id="questionCountDisplay" class="badge-count">0</span>
         </div>
         <div class="question-grid" id="questionGrid">
           </div>
@@ -44,7 +52,7 @@
         <div class="set-summary">
           <div>
             <h2 id="mainHeading">Practice Set</h2>
-            <p>Select a mode and confirm answers as you progress through the questions.</p>
+            <p>Select an operational mode and confirm answers as you progress through the modules.</p>
           </div>
           <div class="mode-switch">
             <button class="button button-secondary active" id="studyModeBtn">Study Mode</button>
@@ -70,6 +78,34 @@
           <button class="button button-danger" id="endBtn">End Set</button>
         </div>
       </main>
+    </div>
+  </div>
+
+  <div id="resultsModal" class="modal-overlay hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>Performance Summary</h2>
+      </div>
+      <div class="modal-body">
+        <div class="score-circle">
+          <span id="modalPercentage">0%</span>
+          <p>Final Score</p>
+        </div>
+        <div class="stats-grid">
+          <div class="stat-item">
+            <span class="stat-label">Total Answered</span>
+            <strong id="modalTotalCorrect">0 / 0</strong>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Time Spent</span>
+            <strong id="modalTimeSpent">00:00</strong>
+          </div>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button id="modalReviewBtn" class="button button-secondary">Review Answers</button>
+        <button id="modalCloseBtn" class="button button-primary">Return to Hub</button>
+      </div>
     </div>
   </div>
 
