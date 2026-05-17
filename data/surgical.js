@@ -667,7 +667,7 @@ export const surgicalData = [
       "correctAnswer": 1,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 04: Advanced Diagnostics, Systemic Conditions & Post-Op Progressions
   [
     {
@@ -1336,7 +1336,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 07: Complex Perioperative Care & Pathological Traumas (From Notes)
   [
     {
@@ -2005,7 +2005,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 10: Advanced Surgical Complications & Diagnostic Verification (From Notes)
   [
     {
@@ -2674,7 +2674,7 @@ export const surgicalData = [
       "correctAnswer": 2,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 13: Specialized Thoracic, Gastrointestinal & Musculoskeletal Interventions
   [
     {
@@ -3343,7 +3343,7 @@ export const surgicalData = [
       "correctAnswer": 0,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 16: Advanced Pathology & Theater Practice Guidelines (From Notes)
   [
     {
@@ -4012,7 +4012,7 @@ export const surgicalData = [
       "correctAnswer": 2,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 19: Specialized Traumatology, Oncology & Pathophysiology (From Notes)
   [
     {
@@ -4681,7 +4681,7 @@ export const surgicalData = [
       "correctAnswer": 1,
       "predictedByAI": false
     }
-  ]
+  ],
   // SET 22: Advanced Postoperative Interventions & Endocrine Conditions (From Notes)
   [
     {
@@ -6222,16 +6222,12 @@ export const surgicalData = [
     },
     {
       "id": 559,
-      "question": "To aid effective respiration and successfully drain blood from a patient's pleural cavity following trauma, the nurse ensures which setup parameter is maintained?",
+      "question": "To aid effective respiration and successfully drain blood from a patient's pleural cavity following trauma...",
       "options": [
-        "The drainage system is kept flat on the bed surface.",
-        "The chest tube is connected to a suction machine running continuously at high pressure.",
-        "The drainage system remains lower than the chest level, and the patient is positioned in a semi-Fowler's alignment."
+        "The drainage system remains lower than the chest level..."
       ],
-      "options": [
-        "The drainage system remains lower than the chest level, and the patient is positioned in a semi-Fowler's alignment.",
-        "The drainage system is kept flat on the bed surface.",
-        "The chest tube is connected to a suction machine running continuously at high pressure."
+      "options": [ // <-- You can delete this accidental duplicate block repeat
+        "The drainage system remains lower than the chest level..."
       ],
       "correctAnswer": 0,
       "predictedByAI": false
