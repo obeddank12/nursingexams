@@ -44,7 +44,7 @@ async function loadQuiz() {
   async function fetchQuestions() {
     try {
       // Handles dynamic runtime routing for all assets
-      const module = await import(`./data/${course}.js`); 
+      const module = await import(`./data/${course}.js`);
       return module.default || module[`${course}Data`] || module.medicalData || Object.values(module)[0];
     } catch (e) {
       console.warn(`Dynamic Asset Notice: Target ./data/${course}.js not loaded yet. Checking fallbacks.`);
