@@ -139,7 +139,31 @@ async function loadQuiz() {
 
   function loadSet(setNum) {
     currentIndex = 0;
-    currentSetQuestions = allSets[setNum - 1] || [];
+    const rawQuestions = allSets[setNum - 1] || [];
+    
+    // MIX UP ENGINE: Shuffles options dynamically so answers are randomized
+    currentSetQuestions = rawQuestions.map(q => {
+      // Find where the correct option text currently resides
+      const originalCorrectIdx = resolveAnswerIndex(q.correctAnswer, q.options);
+      const correctOptionText = q.options[originalCorrectIdx];
+      
+      // Clone the options array before running standard Fisher-Yates shuffle
+      const shuffledOptions = [...q.options];
+      for (let i = shuffledOptions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffledOptions[i], shuffledOptions[j]] = [shuffledOptions[j], shuffledOptions[i]];
+      }
+      
+      // Relocate the exact location index of the correct text in the new array layout
+      const newCorrectIdx = shuffledOptions.indexOf(correctOptionText);
+      
+      return {
+        ...q,
+        options: shuffledOptions,
+        correctAnswer: newCorrectIdx !== -1 ? newCorrectIdx : originalCorrectIdx
+      };
+    });
+    
     quizState = currentSetQuestions.map(() => ({ selected: null, confirmed: false }));
     
     document.getElementById('breadcrumbText').textContent = toDisplayName(course);
